@@ -77,3 +77,13 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.suo
+*.ipch
+.vs/MyFirstGame/v15/Browse.VC.opendb
+*.db
+*.idb
+*.tlog
+*.pdb
+*.ilk
+
+Debug/
